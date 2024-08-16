@@ -1,2 +1,2 @@
 # beta
-Repositorio de trabajo 5° semstre
+Repositorio de trabajo 5° semestre
