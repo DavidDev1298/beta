@@ -1,7 +1,7 @@
 <?php
     /*
     Data Base connection
-    DeverLaper: Chapi
+    DeverLaper: DavidDev1298 
     */
     $host = "localhost"; //127.0.0.1
     $username = "postgres";
